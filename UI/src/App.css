@@ -1,0 +1,26 @@
+.navbar {
+  background-color: #102542;
+  height: 100%;
+}
+
+.iniciarSesionButton {
+  background-color: #f87060;
+  border-color: #f87060;
+}
+
+.iniciarSesionButton:hover {
+  background-color: #f87060;
+  border-color: #f87060;
+}
+
+.div_nav {
+  height: 15%;
+}
+
+.toggleS {
+  margin-left: 30%;
+}
+
+.actual {
+  margin-top: 5%;
+}

@@ -1,0 +1,151 @@
+
+#bot {
+    border: none;
+    color: white;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 10px;
+    cursor: pointer;
+    color:#102542;
+    background-color: white;
+    border-style: solid;
+    border-radius: 10%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
+}
+
+#bot:hover {
+    background-color: #102542;
+    color: white;
+}
+
+.Corporativo {
+    width: 100%;
+    margin-right: 10%;
+}
+
+.div-filtrosHome3 {
+    width: 50%;
+    height: 50%;
+    border: 100%;
+    border-style: solid;
+    border-color: #f87060;
+    background-color: white;
+    margin-top: 3%;
+    margin-bottom: 3%;
+    margin-left: 23%;
+    padding: 3%;
+    border-radius: 10%;
+}
+
+.marco {
+    width: 70%;
+    height: 50%;
+    border: 100%;
+    border-style: solid;
+    border-color: #f87060;
+    background-color: white;
+    margin-top: 1%;
+    margin-bottom: 3%;
+    margin-left: 12%;
+    padding: 2%;
+    border-radius: 10%;
+    text-align: center;
+}
+
+.marco2 {
+    width: max-content;
+    margin-left: 17%;
+    background-color: white;
+    margin-bottom: 1%;
+    border-radius: 10%;
+    text-align: center;
+    display: flex;
+    padding-left: 2%;
+}
+
+.contenedor {
+    width: 80%;
+    height: 100%;
+    margin: auto;
+    padding: 10px;
+    margin-left: 11%;
+}
+
+.marco3 {
+    width: 19%;
+    height: 50%;
+    border: 100%;
+    border-style: solid;
+    border-color: #f87060;
+    background-color: white;
+    margin-right: unset;
+    padding: 2%;
+    padding-bottom: 2%;
+    border-radius: 10%;
+    float: left;
+}
+
+.marco3 input {
+    font-size: small;
+}
+
+.marco4 {
+    border: 100%;
+    border-style: solid;
+    border-color: #102542;
+    background-color: #cdd7d6;
+    border-radius: 4%;
+    padding-left: 45%;
+    padding-right: 45%;
+    padding-top: 4%;
+    padding-bottom: 4%;
+}
+
+.marco3 input {
+    width: 80%;
+}
+.marco3 p {
+    color: #f87060;
+}
+
+.marco3 select {
+    color: white;
+    background: #f87060;
+    border-style: none;
+    font-size: large;
+}
+
+.marco button {
+    border: none;
+    color: #f87060;
+    text-decoration: none;
+    font-size: large;
+    font-weight: 600;
+    display: inline-block;
+    cursor: pointer;
+    background-color:white;
+    padding: 2%;
+    border-radius: 10%;
+}
+
+button:hover {
+    background-color: #f0afa8;
+}
+
+#productos td   {
+    border: 1px solid #ddd;
+    padding: 8px;
+    background-color: white;
+}
+
+#productos th {
+    text-align: left;
+    background-color: #102542;
+    color: white;
+    border-radius: 8px;
+    border: 1px solid #ddd;
+    padding: 8px;
+}
